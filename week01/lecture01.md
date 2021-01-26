@@ -41,7 +41,7 @@ Participation in this class is absolutely key.<!-- .element: class="fragment" --
 
 You will be tasked with talking, creating, sharing, and discussing.<!-- .element: class="fragment" -->
 
-This may be tricky.  It's our first time teaching this course over Zoom.<!-- .element: class="fragment" -->
+This may be tricky.  It's only our second time teaching this course over Zoom.<!-- .element: class="fragment" -->
 
 ---
 
