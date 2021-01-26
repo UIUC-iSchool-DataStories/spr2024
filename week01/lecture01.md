@@ -51,7 +51,7 @@ We ask that you:
 
  * Utilize the Zoom features for "hand-raising"
  * Ask any questions that can be answered over chat using Zoom chat
- * Use Moodle resources for communication outside of class
+ * Use Moodle resources and Campuswire for communication outside of class
 
 ---
 
