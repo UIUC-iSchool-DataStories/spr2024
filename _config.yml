@@ -17,8 +17,8 @@ title: IS457
 email: mjturk@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the course website for Data Storytelling in Spring 2021
-baseurl: "/FIXME" # the subpath of your site, e.g. /blog
-url: "https://uiuc-ischool-datastories.github.io/spr2021/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/spr2021" # the subpath of your site, e.g. /blog
+url: "https://uiuc-ischool-datastories.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  matthewturk
 branch: main
 
