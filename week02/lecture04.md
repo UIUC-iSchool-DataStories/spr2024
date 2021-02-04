@@ -13,7 +13,7 @@ layout: lecture
 
 ## Tweet Critique Example
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FL is largely open, NY far more restricted. <br><br>FL has 2M+ more residents than NY &amp; far more seniors. <br><br>FL 26k COVID deaths, NY 43k. <br><br>As of 1/30, FL 7,600 new cases (+4.3%), NY 10,800 (+6.3%)<br><br>FL ~6k hospitalized, NY ~8k.<br><br>FL ahead of NY on vaccinations: <a href="https://t.co/JVbArZo29C">https://t.co/JVbArZo29C</a> <a href="https://t.co/D4ETs9brMz">pic.twitter.com/D4ETs9brMz</a></p>&mdash; Guy Benson (@guypbenson) <a href="https://twitter.com/guypbenson/status/1356273621220663300?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FL is largely open, NY far more restricted. <br><br>FL has 2M+ more residents than NY &amp; far more seniors. <br><br>FL 26k COVID deaths, NY 43k. <br><br>As of 1/30, FL 7,600 new cases (+4.3%), NY 10,800 (+6.3%)<br><br>FL ~6k hospitalized, NY ~8k.<br><br>FL ahead of NY on vaccinations: <a href="https://t.co/JVbArZo29C">https://t.co/JVbArZo29C</a> <a href="https://t.co/D4ETs9brMz">pic.twitter.com/D4ETs9brMz</a></p>&mdash; Guy Benson (@guypbenson) <a href="https://twitter.com/guypbenson/status/1356273621220663300?ref_src=twsrc%5Etfw">February 1, 2021</a></blockquote>
 
 ---
 
