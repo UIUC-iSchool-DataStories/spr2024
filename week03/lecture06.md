@@ -16,7 +16,7 @@ layout: lecture
 3. Types of Stories
    * Interactive data-informed stories
    * Interactive data-driven stories
-4. Javascript, and Doing D3 Together
+4. Twine
 
 ---
 
