@@ -13,7 +13,7 @@ We've spoken at length about these components and how they interact with our sto
 
 <p class="fragment">We must also take into account our role in the presentation; we bring unique motivation, style and methods to our storytelling.</p>
 
-<p class=fragment">We can codify this in our presentation of our visualizations.</p>
+<p class="fragment">We can codify this in our presentation of our visualizations.</p>
 
 ---
 
