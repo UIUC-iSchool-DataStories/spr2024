@@ -7,7 +7,7 @@ tags:
 description: >-
   The syllabus for the course, what we're going to talk about, and some
   get-to-know-you.
-date: 2021-01-26
+date: 2021-08-24
 ---
 
 ## Land Acknowledgment
@@ -29,9 +29,9 @@ Matthew Turk - `mjturk@illinois.edu`
 
 Office Hours: By Appointment
 
-`https://github.com/UIUC-iSchool-DataStories/fall2021/`
+`https://github.com/UIUC-iSchool-DataStories/fall2021-acg-acu/`
 
-`https://uiuc-ischool-datastories.github.io/fall2021/`
+`https://uiuc-ischool-datastories.github.io/fall2021-acg-acu/`
 
 ---
 
@@ -42,28 +42,6 @@ Participation in this class is absolutely key.<!-- .element: class="fragment" --
 You will be tasked with talking, creating, sharing, and discussing.<!-- .element: class="fragment" -->
 
 This may be tricky.  It's only our second time teaching this course over Zoom.<!-- .element: class="fragment" -->
-
----
-
-## Participation Guidelines
-
-We ask that you:
-
- * Utilize the Zoom features for "hand-raising"
- * Ask any questions that can be answered over chat using Zoom chat
- * Use Moodle resources and Campuswire for communication outside of class
-
----
-
-## Grading - Assignments
-
-You will have five assignments:
-
- 1. Tweet Critique
- 2. Data Story Idea: Social Problem or Social Justice (1 page)
- 3. Data Story Critique
- 4. Recorded Data Story (3-5 minutes)
- 5. Final data story (3 minutes in class, students sign up during last 5 weeks of class)
 
 ---
 
