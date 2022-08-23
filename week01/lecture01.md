@@ -29,9 +29,9 @@ Matthew Turk - `mjturk@illinois.edu`
 
 Office Hours: By Appointment
 
-`https://github.com/UIUC-iSchool-DataStories/fall2021-acg-acu/`
+`https://github.com/UIUC-iSchool-DataStories/fall2022-acg-acu/`
 
-`https://uiuc-ischool-datastories.github.io/fall2021-acg-acu/`
+`https://uiuc-ischool-datastories.github.io/fall2022-acg-acu/`
 
 ---
 
@@ -40,8 +40,6 @@ Office Hours: By Appointment
 Participation in this class is absolutely key.<!-- .element: class="fragment" -->
 
 You will be tasked with talking, creating, sharing, and discussing.<!-- .element: class="fragment" -->
-
-This may be tricky.  It's only our second time teaching this course over Zoom.<!-- .element: class="fragment" -->
 
 ---
 
@@ -88,7 +86,7 @@ allow="encrypted-media" allowfullscreen></iframe>
 
 ## Introduction to Each Other
 
-We're going to break up into breakout rooms, where you'll chat with each other about your *name*.
+We're going to break up into groups, where you'll chat with each other about your *name*.
 
 Talk a little about your name.  Does it mean something?  Where does it come from?
 
@@ -105,7 +103,7 @@ In your new breakout rooms, we want you to think about telling a story about nam
 
 We will break *back* into groups and share this, and sketch out a handful of ideas.
 
-http://bit.ly/36dTKhd
+https://bit.ly/3TdeqNa
 
 ---
 
