@@ -1,13 +1,19 @@
-instructor: 
-  name: Matthew Turk
-  email: mjturk@illinois.edu
-  office: Online
-  office_hours: Friday, 9-11, by appointment
+instructors: 
+  -
+    name: Kate McDowell
+    email: kmcdowel@illinois.edu
+    office: 
+    office_hours: By appointment
+  -
+    name: Matthew Turk
+    email: mjturk@illinois.edu
+    office: Room 5115, 614 E Daniel
+    office_hours: Wednesday 3-4PM and by appointment
 tas: []
 course:
   name: Data Storytelling
   number: IS457
-  semester: Spring, 2021
+  semester: Fall 2022
   location: Online
   time: Tue & Thu, 2:00-3:20PM
   credit_hours: 4
