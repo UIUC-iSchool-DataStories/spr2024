@@ -69,3 +69,56 @@ describing how to animate between charts and animations.
 Because Canis uses a particular dialect of SVGs that we haven't yet developed,
 we're going to explore it, but will not be "teaching" it per se.
 
+---
+
+## Work Together
+
+Today we're going to work on building a data story in these stages:
+
+
+1. Identify and collect our data.
+2. Explore the data.  (Do we need to do this?  Let's discuss...)
+3. Determine our strategy.
+   * What stories does the data tell us?
+   * What is the story we will tell?
+   * What dimension will we use?
+4. Storyboard how we will tell it
+   * Clearly delineate progression
+   * Demonstrate annotations
+
+---
+
+## What Story?
+
+We'll do a hybrid of working together and working in groups, and I'll ask you to take different approaches in different times.
+
+ > What can we tell about libraries from the circulation at different branches in Chicago?
+
+---
+
+## Dimensions of Storytelling
+
+For this story, I want each group to identify one of these three items as their "dimension."
+
+1. Detail
+2. Spatial
+3. Temporal
+
+What changes about your tactics based on these?
+
+---
+
+## Storyboard
+
+Choose one method of telling the story:
+
+1. Single infographic
+2. Slides
+3. Animation
+
+What UI and other methods will you use to tell this?  What annotations?  How
+will you describe the points to annotate, and what will you use to do so?
+
+---
+
+## Report back
