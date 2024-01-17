@@ -7,7 +7,7 @@ tags:
 description: >-
   The syllabus for the course, what we're going to talk about, and some
   get-to-know-you.
-date: 2021-08-24
+date: 2024-01-17
 ---
 
 ## Land Acknowledgment
@@ -21,17 +21,15 @@ Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
 
 # Basics
 
-2:00-3:20PM Tuesdays and Thursdays
-
-Kate McDowell - `kmcdowel@illinois.edu`
+3:00-4:20PM Mondays and Wednesdays
 
 Matthew Turk - `mjturk@illinois.edu`
 
+Xinhui Hu - `xhu15@illinois.edu`
+
+TA: Gowri Saini Balasubramaniam - `gowri2@illinois.edu`
+
 Office Hours: By Appointment
-
-`https://github.com/UIUC-iSchool-DataStories/fall2022-acg-acu/`
-
-`https://uiuc-ischool-datastories.github.io/fall2022-acg-acu/`
 
 ---
 
@@ -96,7 +94,7 @@ Afterward, we'll reconvene, allow for a few people to share a bit, and then we w
 
 ## Names - Visualization
 
-In your new breakout rooms, we want you to think about telling a story about names.
+In your groups, we want you to think about telling a story about names.
 
  * How do we tell a visual story about this?
  * What information -- *data* -- can we obtain about names?
